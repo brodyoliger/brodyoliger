@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brodyoliger/configuring-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brodyoliger/azure-network-portals)
+  - [Basic DNS Exercises](https://github.com/brodyoliger/dns-basics)
 
 <h2>Connect with me:</h2>
 
