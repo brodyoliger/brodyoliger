@@ -1,4 +1,4 @@
-<h1>Hi, I'm Broderick, I also go by Brody
+<h1>Hi, I'm Brody
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
