@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brodyoliger/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brodyoliger/configuring-active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brodyoliger/azure-network-portals)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brodyoliger/azure-nsgs)
   - [Basic DNS Record Creation](https://github.com/brodyoliger/dns-basics)
 
 <h2>Connect with me:</h2>
